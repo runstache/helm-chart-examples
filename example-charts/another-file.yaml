@@ -1,0 +1,4 @@
+- domain: PATIENT.DOCUMENT.OID
+  mappings:
+    - source: dev
+      target: development
